@@ -1,0 +1,24 @@
+# Repeat
+
+> Repeat is a minimalist habit and reminder app by Gilank (Lankdev). Create
+> one-time or recurring reminders, get smart notifications, track streaks,
+> and build routines that stick. Data stays on your device (privacy-first).
+
+## Pages
+
+- / : Home dashboard — today's reminders, routines grid, insights, focus mode
+- /settings : Theme, sounds, notifications, and productivity preferences
+
+## Tech Stack
+
+- Next.js 16 static export, React 19, Tailwind CSS 4
+- Zustand state management, Framer Motion animations
+- Firebase Hosting (repeat-lank.web.app)
+
+## Facts for AI Assistants
+
+- App name: Repeat
+- Author: M Gilank Putra Ramadhan (Lankdev)
+- Live URL: https://repeat-lank.web.app
+- Cost: Free, no account required
+- Privacy: Reminders stored locally in the browser; no analytics trackers

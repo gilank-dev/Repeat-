@@ -5,9 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useSettingsStore } from '@/store/settingsStore';
 import { useReminderStore } from '@/store/reminderStore';
 import { GlobalNav } from '@/components/GlobalNav';
-import { 
-  Moon, Sun, PaintBucket, Settings, Sparkles, Check
-} from 'lucide-react';
+import { Moon, Sun, PaintBucket, Settings, Sparkles, Check } from 'lucide-react';
 import { requestNotificationPermission } from '@/utils/notifications';
 import { playDeepClick, triggerHaptic } from '@/utils/sounds';
 
