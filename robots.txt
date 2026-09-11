@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://repeat-lank.web.app/sitemap.xml
